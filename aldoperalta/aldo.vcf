@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Peralta Maldonado;Aldo Esaidt;;;
+FN:Aldo Esaidt Peralta Maldonado
+ORG:Inovalab
+TITLE:
+item1.TEL:+52 775 771 0680
+item1.X-ABLabel:Móvil
+item2.URL:https://aldopm09.github.io/aldoperalta/
+item2.X-ABLabel:OTHER
+item3.EMAIL;type=INTERNET:aldo.peralta09@gmail.com
+item3.X-ABLabel:Principal
+END:VCARD
